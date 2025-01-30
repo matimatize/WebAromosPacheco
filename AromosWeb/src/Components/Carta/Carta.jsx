@@ -131,7 +131,7 @@ function MenuRow({
                         {plato.plato_Descripcion}
                       </span>
                       <img
-                        src={`/public/images/${plato.plato_Foto}`}
+                        src={`https://matimatize.github.io/WebAromosPacheco/images/${plato.plato_Foto}`}
                         alt="Foto del plato"
                         style={{ width: "130px", height: "100px" }}
                       />

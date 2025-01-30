@@ -26,13 +26,13 @@ function App() {
       {/* Titulo de header */}
       <div className="p-3 mb-2 bg-primary text-white position-relative">
         <img
-          src="public/tupacAmaru2.jpg"
+          src="https://matimatize.github.io/WebAromosPacheco/images/tupacAmaru2.jpg"
           className="rounded psoition-absolute top-0 float-start p-2"
           alt="ISFDYP114"
           width="10%"
         />
         <img
-          src="public/Favicon/android-chrome-192x192.png"
+          src="https://matimatize.github.io/WebAromosPacheco/Favicon/android-chrome-192x192.png"
           className="rounded-circle mx-auto d-block e-4"
           alt="Aromos"
           width="10%"
