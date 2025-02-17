@@ -87,7 +87,7 @@ function AsignPlato() {
   return (
     <div>
       <h3 className="position- text-center">Asignación de platos a un menú</h3>
-      <select
+      <select //Selector de menu
         className="form-select"
         value={selectedMenu?.menu_ID || ""}
         onChange={(e) => {
